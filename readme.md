@@ -33,7 +33,9 @@ pip install -r requirements.txt
 2. Run the project:
 
 ```
-python main.py
+streamlit run app.py
+```
+
 
 ## Future Improvements
 
