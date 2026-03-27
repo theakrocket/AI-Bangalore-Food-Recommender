@@ -1,8 +1,8 @@
-# Zomato AI Project
+# AI Bangalore Food Recommender
 
 ## Overview
 
-This project is an AI-based system inspired by Zomato that helps users analyze restaurant data and make better food choices.
+This project is an AI-based system that helps users analyze restaurants in Bangalore and make better food choices.
 
 ## Features
 
@@ -19,7 +19,8 @@ This project is an AI-based system inspired by Zomato that helps users analyze r
 
 ## Dataset
 
-* Zomato dataset 
+* Zomato dataset
+* Link: https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
 
 ##  How to Run
 
